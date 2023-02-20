@@ -7,4 +7,4 @@ ESC, Servo motor Control by PWM, CC1101(RF-Transceiver), GPS module.
 \pc_app : Transmit Xbox Gamepad input to RC-Truck, Receive GPS, RPM.<br>
 written by Python3.9<br>
 <br>
-[demo]
+[demo]https://youtu.be/DZby_soV5pI
